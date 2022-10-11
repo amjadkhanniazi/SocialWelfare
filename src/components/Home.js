@@ -114,7 +114,7 @@ export default function Home() {
       <div className="col-lg-4 col-md-12 mb-4">
         <div className="card">
           <div className="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-            <img src="./img/44.jpg" alt='' className="img-fluid" />
+            <img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg" alt='' className="img-fluid" />
             <a href="#!">
               <div className="mask" style={{backgroundColor: "rgba(251, 251, 251, 0.15)"}}></div>
             </a>
