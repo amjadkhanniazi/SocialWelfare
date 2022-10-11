@@ -41,7 +41,7 @@ export default function Home() {
           <a role="button" className="btn btn-primary btn-lg m-2"
            href="/application"
             >
-            Become a Voovo
+            Become a Volunteer
           </a>
         </div>
       </div>
